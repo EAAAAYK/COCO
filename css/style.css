@@ -173,7 +173,7 @@ html {
   position: absolute;
   content: "";
   display: block;
-  background-image: url("assets/image/bg-top-kv-1.png");
+  background-image: url("../img/bg-top-kv-1.png");
   background-size: contain;
   max-width: 903px;
   aspect-ratio: 903 / 689;
